@@ -1,4 +1,4 @@
-'use scrict'
+'use strict'
 
 /*
 Programa que nos pida dos numero y nos diga cual es el mayor, el menor y si son iguales.

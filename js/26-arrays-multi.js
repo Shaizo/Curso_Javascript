@@ -17,3 +17,8 @@ console.log(peliculas);
 var texto = peliculas.join();
 
 console.log(texto);
+
+//Ordenar array
+peliculas.sort(); //Orden alfabetico
+peliculas.reverse() //Orden inverso
+
